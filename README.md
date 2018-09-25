@@ -3,6 +3,8 @@ Just an example to demonstrate electron + xterm + ssh2
 
 # Run
 
-`npm install`
+1. Edit `index.html` - Change username, password and port if required.
 
-`npm start`
+2. `npm install`
+
+3. `npm start`
